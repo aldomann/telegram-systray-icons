@@ -1,0 +1,3 @@
+#!/bin/bash
+rm -rf ~/.TelegramDesktop/tdata/ticons
+cp -r ticons ~/.TelegramDesktop/tdata/ticons
