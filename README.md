@@ -1,14 +1,14 @@
 # Telegram System Tray Icons
-Custom systray icons for Telegram to fit the style of GNOME Shell when using [KStatusNotifierItem/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) extension, although it should work with [TopIcons]() as well.
+Custom systray icons for Telegram to fit the style of GNOME Shell when using [KStatusNotifierItem/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) extension, although it should work with [TopIcons](https://extensions.gnome.org/extension/1031/topicons/) as well.
 
 | Icon | Meaning |
 |------|---------|
-| ![image](images/icon-idle.png)             | Idle (no unread messages)    |
-|![image](images/icon-notification.png)      | Unread messages              |
-|![image](images/icon-notification-mute.png) | Unread messages (muted chat) |
+| ![image](images/icon-idle.png)              | Idle (no unread messages)    |
+| ![image](images/icon-notification.png)      | Unread messages              |
+| ![image](images/icon-notification-mute.png) | Unread messages (muted chat) |
 
 
-Right now only up to 50 unread messages is implemented. If the icon "number" does not exist is automatically generated (with the default Telegram style).
+Right now only up to 50 unread messages is implemented (this will be updated). If the icon "number" does not exist is automatically generated (with the default Telegram style).
 
 ## Installation
 
