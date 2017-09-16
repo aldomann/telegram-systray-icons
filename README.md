@@ -10,7 +10,7 @@ The [Roboto font family](https://github.com/google/roboto) is licensed under a [
 | ![image](screenshots/icon-notification-mute.png) | Unread messages (muted chat) |
 
 
-Right now only up to 100 unread messages support is implemented. If the icon "number" does not exist is automatically generated (with the default Telegram style).
+Right now only up to 100 unread messages support is implemented. If the icon "number" does not exist, it is automatically generated (with the default Telegram style).
 
 ## Installation
 
