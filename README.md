@@ -1,5 +1,5 @@
 # Telegram System Tray Icons
-*This repository is an archive of old work. This repository has been migrated to [GitLab](https://gitlab.com/aldomann/telegram-systray-icons)*
+*This repository is an archive of old work. This repository has been migrated to [GitLab](https://gitlab.com/aldomann/telegram-systray-icons).*
 
 Custom systray icons for Telegram to fit the style of GNOME Shell when using [KStatusNotifierItem/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) extension, although it should work with [TopIcons](https://extensions.gnome.org/extension/1031/topicons/) as well.
 
