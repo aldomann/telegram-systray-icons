@@ -18,4 +18,4 @@ Simple, you just run the script from the root of the source folder:
 ```bash
 ./INSTALL
 ```
-Alternatively, you can just move the `ticons` folder to `~/.TelegramDesktop/tdata`. You can just delete or backup the old folder.
+Alternatively, you can just move the `ticons` folder to `~/.local/share/TelegramDesktop/tdata`. You can just delete or backup the old folder.
